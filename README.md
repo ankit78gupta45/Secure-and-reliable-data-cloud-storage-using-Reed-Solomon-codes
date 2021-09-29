@@ -1,0 +1,2 @@
+# Secure-and-reliable-data-cloud-storage-using-Reed-Solomon-codes
+Secure-and-reliable-data-cloud-storage-using-Reed-Solomon-codes Security and reliability to the data on cloud storage is achieved using erasure coding This project provides security to user’s data by encoding different parts of file and uploading those parts in multiple cloud storage, and reliability is achieved by applying Reed-Solomon technique. Java was used to create the interface.
